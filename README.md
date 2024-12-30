@@ -33,6 +33,6 @@ Cada pasta representa um projeto individual
 ├── node_modules/
 │   ├── readline-sync/
 │   └── .package-lock.json
+├── README.md
 ├── package-lock.json
-├── package.json
-└── README.md
+└── package.json
