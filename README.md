@@ -3,7 +3,7 @@
 Este repositório contém os projetos desenvolvidos durante o curso de Frontend oferecido pelo Santander Tech+ em parceria com a ADA. Cada projeto foi criado para aplicar e consolidar os conhecimentos adquiridos ao longo do curso.
 
 ## Conteúdo
-O curso de Lógica de programação básica com JavaScript, oferece uma introdução essencial aos fundamentos da programação, abrangendo variáveis, hoisting, coersão de tipos, operadores booleanos, controle de fluxo e condicionais. 
+O curso de Lógica de programação básica com JavaScript, apresenta uma introdução essencial aos fundamentos da programação, abrangendo variáveis, hoisting, coersão de tipos, operadores booleanos, controle de fluxo e condicionais. 
 
 - **Gerenciamento de memória dinâmica**
 - **Condicionais**
